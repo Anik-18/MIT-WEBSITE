@@ -1089,7 +1089,9 @@ body {
 	margin-left: 731px;
 	margin-top: 15px;
 }
-
+input{
+     width: 103%
+}
 
 /*-----------------------------------*\
   #MEDIA QUERIES
